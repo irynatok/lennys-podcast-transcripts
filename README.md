@@ -163,6 +163,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny's Knowledge Graph](https://lennysgraph.vercel.app/)** by [Eze Actis Grosso](https://www.linkedin.com/in/fractionaltech/) - Explore concepts, frameworks, guests, and books across 330+ episodes. Find connections, ask questions, and get answers with the exact episode and timestamp—click straight to that moment on YouTube.
 
+**[Lenny's Records](https://lennys-records.vercel.app/)** by [@irynatok](https://github.com/irynatok) — A cozy little archive where you can browse browse all lightning round recommendations (books, movies, products) and get a life mottos inspiration from Lenny's Podcast in an interactive infinite canvas UI.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
